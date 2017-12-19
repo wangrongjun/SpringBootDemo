@@ -11,7 +11,7 @@ public class DemoApplicationTests {
 
     @Test
     public void testHello() {
-        System.out.println("hello test!!!");
+        System.out.println("hello my test!!!");
     }
 
 }
